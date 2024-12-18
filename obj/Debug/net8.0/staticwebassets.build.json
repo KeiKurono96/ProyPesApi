@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PR/CHfZz07XTaMdE2q5L9shzwjEttVh/GKD2iX+PrSg=",
+  "Source": "BackendAjsAPI",
+  "BasePath": "_content/BackendAjsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
